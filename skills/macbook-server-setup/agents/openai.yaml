@@ -1,0 +1,4 @@
+interface:
+  display_name: "MacBook Server Setup"
+  short_description: "Configure MacBooks as low-power servers"
+  default_prompt: "Use $macbook-server-setup to configure this MacBook for stable low-power server use."
